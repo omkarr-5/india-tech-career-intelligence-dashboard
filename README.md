@@ -288,7 +288,7 @@ git clone https://github.com/your-username/india-tech-career-intelligence-dashbo
 
 **Omkar Shirsath**
 
-- LinkedIn: *(linkedin.com/in/omkarshirsath)*
+- 💼 LinkedIn: [Omkar Shirsath](https://www.linkedin.com/in/omkar-shirsath-44a69741b/)
 
 ---
 
